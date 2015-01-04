@@ -1,0 +1,6 @@
+html { background: #ddd; padding: 20px; }
+body { background: #fefefe; padding: 30px; margin: 0 auto; max-width: 520px; border-radius: 8px; }
+h1, h2, p, a, body { font-family: helvetica; color: #000000; }
+h2 { color: #000000; }
+p { padding: 0px 0 0; } p, a, body { color: #343434; } p b { color: #333333; }
+hr { height: 0; background: none; border: none; border-bottom: 1px solid #ddd; margin: 25px 0; }
